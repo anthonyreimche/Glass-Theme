@@ -1,0 +1,10 @@
+{
+  "id": "theme-glass",
+  "categories": ["Themes"],
+  "name": "Glass",
+  "version": "1.9.0",
+  "minAppVersion": "3.2.3",
+  "description": "Neutral frosted glass: a light grey tint over the window's acrylic, so your desktop shows through.",
+  "author": "Anthony Reimche",
+  "main": "index.js"
+}
